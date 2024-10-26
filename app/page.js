@@ -7,7 +7,7 @@ export default function Home() {
         <h1 className="text-3xl">aurorarent.net</h1>
         <ol className="list-inside list-decimal text-sm text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-8 py-5 px-4 relative border border-white/30">            
-            <h2 className="underline underline-offset-8">zapys.co - Micro Tools</h2>
+            <h2 className="inline-block underline underline-offset-8">zapys.co - Micro Tools</h2>
             <p className="mt-4 ml-6 max-w-xl">
               Zapys provides a growing list of minimalist tools crafted to tackle specific tasks efficiently. Whether you&apos;re looking for quick converters, or other utilities, find what you need in seconds.
             </p>
