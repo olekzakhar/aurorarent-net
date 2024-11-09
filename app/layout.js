@@ -13,8 +13,8 @@ const geistMono = localFont({
 })
 
 export const metadata = {
-  title: "Micro Tools - zapys.co",
-  description: "Zapys provides a growing list of minimalist tools crafted to tackle specific tasks efficiently. Whether you're looking for quick converters, or other utilities, find what you need in seconds.",
+  title: "MicroTools - aurorarent.net",
+  description: "Aurorarent provides a growing list of minimalist tools crafted to tackle specific tasks efficiently. Whether you're looking for quick converters, or other utilities, find what you need in seconds.",
 }
 
 export default function RootLayout({ children }) {

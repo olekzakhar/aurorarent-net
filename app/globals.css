@@ -21,3 +21,21 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* styles/FloatingPlayer.css */
+.floating-player-container {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 200px;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  z-index: 9999;
+}
+
+.floating-player-container video {
+  width: 100%;
+  height: auto;
+  cursor: pointer;
+}
