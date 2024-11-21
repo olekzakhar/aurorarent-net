@@ -13,7 +13,7 @@ const geistMono = localFont({
 })
 
 export const metadata = {
-  title: "MicroTools - aurorarent.net",
+  title: "MicroTools",
   description: "Aurorarent provides a growing list of minimalist tools crafted to tackle specific tasks efficiently. Whether you're looking for quick converters, or other utilities, find what you need in seconds.",
 }
 
