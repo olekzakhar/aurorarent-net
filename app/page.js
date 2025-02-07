@@ -7,12 +7,12 @@ export default function Home() {
         <h1 className="text-3xl">aurorarent.net</h1>
         <ol className="list-inside list-decimal text-sm text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-8 py-5 px-4 relative border border-white/30">
-            <h2 className="inline-block underline underline-offset-8">jatke.co - WhatsApp Catalog Builder</h2>
+            <h2 className="inline-block underline underline-offset-8">Tranzly - Quick translate with Google Translate</h2>
             <p className="mt-4 ml-6 max-w-xl">
-              Create WhatsApp catalog with Google Sheets Data. Make Ordering on WhatsApp super easy. Your customers will love this.
+              Translate text and images effortlessly with this extension. Instantly translate selected text with a single click or extract and translate text from images.
             </p>
-            <Link href="https://jatke.co" className="absolute top-0 left-0 w-full h-full">
-              <span className="invisible">jatke.co - WhatsApp Catalog Builder</span>
+            <Link href="https://tranzly.vercel.app" className="absolute top-0 left-0 w-full h-full">
+              <span className="invisible">Tranzly - Quick translate with Google Translate</span>
             </Link>
           </li>
           <li className="mt-16 mb-8 py-5 px-4 relative border border-white/30">
